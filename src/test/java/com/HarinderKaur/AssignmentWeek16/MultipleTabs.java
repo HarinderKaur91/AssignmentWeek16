@@ -20,7 +20,7 @@ public class MultipleTabs {
 	WebDriver wd;
 	WebDriverWait wdwait;
 	SoftAssert sf;
-
+//annotation of testng
 	@BeforeMethod
 	public void setUp() {
 
