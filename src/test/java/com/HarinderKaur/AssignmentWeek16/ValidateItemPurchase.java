@@ -15,6 +15,7 @@ import org.testng.asserts.SoftAssert;
 
 public class ValidateItemPurchase {
 
+	//verifying jira integration
 	WebDriver wd;
 	WebDriverWait wdwait;
 	SoftAssert sf;
