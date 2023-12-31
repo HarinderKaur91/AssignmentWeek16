@@ -16,7 +16,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 public class MultipleTabs {
- //webdriver wait
+ //comment added
 	WebDriver wd;
 	WebDriverWait wdwait;
 	SoftAssert sf;
